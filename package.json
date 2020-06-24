@@ -1,0 +1,21 @@
+{
+    "name": "chessnut",
+    "displayName": "ChessNut",
+    "description": "It's a simple & attracting vs code theme extension for those who really lovesdoid their job stylishly",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.46.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "ChessNut Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/ChessNut Theme-color-theme.json"
+            }
+        ]
+    }
+}
