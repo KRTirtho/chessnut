@@ -1,13 +1,7 @@
-# README
-## This is the README for your extension "chessnut"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Chessnut 
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+#### Theme for Visual Studio Code
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+It's a special theme for visual studio with inspiration of a chestnut's  wonderful color & visual design. Even though its name is **Chessnut** which doesn't matches the name of actual chestnut and also its alphabetically wrong. But its a name only so don't worry about that. It's an awesome theme. Hope you guys will like it.
 
-**Enjoy!**
+Follow me on [Facebook](https://facebook.com/krtirtho) & [Github](https://github.com/KRTirtho/)
